@@ -62,3 +62,4 @@ https://codeforces.com/gym/102215/problem/A **(2)**
 
 ### Union Find / MST
 https://codeforces.com/contest/939/problem/D **(2)**
+https://codeforces.com/contest/548/problem/D **(4)**
