@@ -1,1 +1,64 @@
-# GEMA-Bixos-Long-Long-Challenge
+# Gema BIXOS - Long Long Challenge
+
+## Tags:
+	- Implementation
+	- Math
+	- Brute Force
+	- Greedy 
+	- STL
+	- DFS / BFS
+	- Busca binaria
+	- DP
+	- Union Find
+
+- 5 problemas por tag -> 40 problemas
+- 2 faceis, 2 medios, 1 dificil
+- Colocar todos os problemas bons da tag que voce achar e do lado um valor de 1 a 5 com a dificuldade da seguinte forma:
+	- Muito Facil	(1)	 (Equivalente a um A - Div. 3)
+	- Facil 		(2)  (Equivalente a um C - Div. 3)
+	- Medio 		(3)  (Equivalente a um C - Div. 2)
+	- Dificil 		(4)  (Equivalente a um D - Div. 2)
+	- Muito dificil (5)  (Equivalente a um E - Div. 2)
+
+### Implementation
+https://codeforces.com/contest/1108/problem/D **(3)**
+
+https://codeforces.com/gym/102215/problem/B **(1)**
+
+https://codeforces.com/gym/244477/problem/B **(1)**
+
+https://codeforces.com/contest/1099/problem/C **(2)**
+
+### Math
+https://codeforces.com/gym/102215/problem/C **(3)**
+
+https://codeforces.com/contest/987/problem/B **(2)**
+
+### Brute Force
+https://codeforces.com/contest/1121/problem/B **(1)**
+
+### Greedy
+https://codeforces.com/contest/1157/problem/B **(2)**
+
+https://codeforces.com/gym/100494/problem/K **(2)**
+
+https://codeforces.com/contest/1157/problem/C2 **(3)**
+
+### STL
+https://codeforces.com/gym/101341/problem/G **(3)**
+
+https://codeforces.com/gym/101341/problem/M **(2)**
+
+### DFS/BFS
+https://codeforces.com/contest/999/problem/E **(4)**
+
+### Busca Binaria
+https://codeforces.com/contest/1077/problem/D **(3)**	
+
+https://codeforces.com/contest/991/problem/C **(3)**
+
+### DP
+https://codeforces.com/gym/102215/problem/A **(2)**
+
+### Union Find / MST
+https://codeforces.com/contest/939/problem/D **(2)**
