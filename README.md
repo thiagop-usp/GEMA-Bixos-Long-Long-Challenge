@@ -11,8 +11,8 @@
 	- DP
 	- Union Find
 
-- 5 problemas por tag -> 40 problemas
-- 2 faceis, 2 medios, 1 dificil
+- A ideia eh montar um Round no CF que dure Julho todo e tenha de 5 a 7 problemas por tag.
+- Preferencialmente, pra 5, algo como: `2 Faceis, 2 Medios e 1 Dificil`
 - Colocar todos os problemas bons da tag que voce achar e do lado um valor de 1 a 5 com a dificuldade da seguinte forma:
 	- Muito Facil	(1)	 (Equivalente a um A - Div. 3)
 	- Facil 		(2)  (Equivalente a um C - Div. 3)
