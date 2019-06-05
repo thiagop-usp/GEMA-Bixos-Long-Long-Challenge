@@ -13,6 +13,8 @@
 
 - A ideia eh montar um Round no CF que dure Julho todo e tenha de 5 a 7 problemas por tag.
 - Preferencialmente, pra 5, algo como: `2 Faceis, 2 Medios e 1 Dificil`
+- Nessa lista a ideia eh colocar todos os problemas possiveis (pra depois escolher quais a gente poe no Round).
+
 - Colocar todos os problemas bons da tag que voce achar e do lado um valor de 1 a 5 com a dificuldade da seguinte forma:
 	- Muito Facil	(1)	 (Equivalente a um A - Div. 3)
 	- Facil 		(2)  (Equivalente a um C - Div. 3)
