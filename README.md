@@ -2,6 +2,7 @@
 
 ## Tags:
 	- Implementation
+	- Number Theory (Crivo, Fatoraçao prima, coisas básicas).
 	- Math
 	- Brute Force
 	- Greedy 
@@ -66,3 +67,5 @@ https://codeforces.com/gym/102215/problem/A **(2)**
 https://codeforces.com/contest/939/problem/D **(2)**
 
 https://codeforces.com/contest/548/problem/D **(4)**
+
+### Number theory
