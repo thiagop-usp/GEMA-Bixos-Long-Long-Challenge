@@ -32,10 +32,16 @@ https://codeforces.com/gym/244477/problem/B **(1)**
 
 https://codeforces.com/contest/1099/problem/C **(2)**
 
+https://codeforces.com/contest/988/problem/C **(2)**
+
 ### Math
 https://codeforces.com/gym/102215/problem/C **(3)**
 
 https://codeforces.com/contest/987/problem/B **(2)**
+
+https://codeforces.com/contest/1165/problem/D **(3)**
+
+https://codeforces.com/contest/151/problem/C **(3)**
 
 ### Brute Force
 https://codeforces.com/contest/1121/problem/B **(1)**
@@ -59,6 +65,10 @@ https://codeforces.com/contest/999/problem/E **(4)**
 https://codeforces.com/contest/1077/problem/D **(3)**	
 
 https://codeforces.com/contest/991/problem/C **(3)**
+
+https://codeforces.com/contest/1010/problem/A **(4)**
+
+https://codeforces.com/contest/371/problem/C **(3)**
 
 ### DP
 https://codeforces.com/gym/102215/problem/A **(2)**
