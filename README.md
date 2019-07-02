@@ -53,6 +53,8 @@ https://codeforces.com/gym/100494/problem/K **(2)**
 
 https://codeforces.com/contest/1157/problem/C2 **(3)**
 
+https://codeforces.com/gym/101498/problem/F **(5)**
+
 ### STL
 https://codeforces.com/gym/101341/problem/G **(3)**
 
@@ -60,6 +62,8 @@ https://codeforces.com/gym/101341/problem/M **(2)**
 
 ### DFS/BFS
 https://codeforces.com/contest/999/problem/E **(4)**
+
+https://codeforces.com/contest/731/problem/C **(3)**
 
 ### Busca Binaria
 https://codeforces.com/contest/1077/problem/D **(3)**	
@@ -70,8 +74,14 @@ https://codeforces.com/contest/1010/problem/A **(4)**
 
 https://codeforces.com/contest/371/problem/C **(3)**
 
+https://codeforces.com/contest/1187/problem/B **(2)**
+
 ### DP
 https://codeforces.com/gym/102215/problem/A **(2)**
+
+https://codeforces.com/contest/909/problem/C **(3)**
+
+https://codeforces.com/contest/279/problem/C **(3)**
 
 ### Union Find / MST
 https://codeforces.com/contest/939/problem/D **(2)**
@@ -79,3 +89,8 @@ https://codeforces.com/contest/939/problem/D **(2)**
 https://codeforces.com/contest/548/problem/D **(4)**
 
 ### Number theory
+https://codeforces.com/contest/1047/problem/C **(3)**
+
+https://codeforces.com/contest/1038/problem/B **(2)**
+
+https://codeforces.com/contest/861/problem/A **(2)**
