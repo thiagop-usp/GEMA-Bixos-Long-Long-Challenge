@@ -103,3 +103,5 @@ https://codeforces.com/contest/861/problem/A **(2)**
 ### GEOMETRY
 https://codeforces.com/gym/102215/problem/L **(2)**
 
+https://codeforces.com/gym/100488/problem/A **(3)**
+
