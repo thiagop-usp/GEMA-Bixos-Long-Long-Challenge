@@ -46,14 +46,14 @@ https://codeforces.com/contest/151/problem/C **(3)**
 ### Brute Force
 https://codeforces.com/contest/1121/problem/B **(1)**
 
-https://codeforces.com/gym/102215/problem/J  **(3)**
-
 ### Greedy
 https://codeforces.com/contest/1157/problem/B **(2)**
 
 https://codeforces.com/gym/100494/problem/K **(2)**
 
 https://codeforces.com/contest/1157/problem/C2 **(3)**
+
+https://codeforces.com/gym/102215/problem/J  **(3)**
 
 https://codeforces.com/gym/101498/problem/F **(5)**
 
