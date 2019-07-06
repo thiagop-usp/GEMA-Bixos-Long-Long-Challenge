@@ -46,6 +46,8 @@ https://codeforces.com/contest/151/problem/C **(3)**
 ### Brute Force
 https://codeforces.com/contest/1121/problem/B **(1)**
 
+https://codeforces.com/gym/102215/problem/K **(3)**
+
 ### Greedy
 https://codeforces.com/contest/1157/problem/B **(2)**
 
