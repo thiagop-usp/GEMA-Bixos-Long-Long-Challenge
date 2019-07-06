@@ -45,6 +45,7 @@ https://codeforces.com/contest/151/problem/C **(3)**
 
 ### Brute Force
 https://codeforces.com/contest/1121/problem/B **(1)**
+https://codeforces.com/gym/102215/problem/J  (3)
 
 ### Greedy
 https://codeforces.com/contest/1157/problem/B **(2)**
@@ -83,6 +84,7 @@ https://codeforces.com/contest/909/problem/C **(3)**
 
 https://codeforces.com/contest/279/problem/C **(3)**
 
+
 ### Union Find / MST
 https://codeforces.com/contest/939/problem/D **(2)**
 
@@ -94,3 +96,7 @@ https://codeforces.com/contest/1047/problem/C **(3)**
 https://codeforces.com/contest/1038/problem/B **(2)**
 
 https://codeforces.com/contest/861/problem/A **(2)**
+
+GEOMETRY
+https://codeforces.com/gym/102215/problem/L (2)
+
